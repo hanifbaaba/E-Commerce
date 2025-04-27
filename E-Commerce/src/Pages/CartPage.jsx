@@ -1,7 +1,7 @@
 export default function CartPage() {
   return (
     <div>
-      <h1>Cart PAge</h1>
+      <h1>Your Shopping Cart</h1>
     </div>
   );
 }
